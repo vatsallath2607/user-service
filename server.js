@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("🚀 App is running on EC2!");
+  res.send("🔥 CI/CD WORKING PERFECTLY 🚀");
 });
 
 // VERY IMPORTANT LINE
